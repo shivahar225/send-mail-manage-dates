@@ -1,0 +1,3 @@
+name,email,year,month,day
+dear,(mail).com,2024,10,07
+
